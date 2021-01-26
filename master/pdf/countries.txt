@@ -1,0 +1,6 @@
+Austria;Vienna;83859;27436
+Belgium;Brussels;30518;123
+Denmark;Copenhagen;43094;1323
+Finland;Helsinki;304529;131
+France;Paris;543965;123
+Germany;Berlin;357022;213
